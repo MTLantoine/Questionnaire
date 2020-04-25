@@ -1,0 +1,44 @@
+Combien y a-t-il de saison dans l'année ?
+4
+1
+NumericalAnswer
+Citez une des quatres saisons de l'année :
+Printemps ; été ; Automne ; Hiver
+2
+MultipleAnswer
+Quelle marque n'existe pas ?
+Princeton | Adidas | Kappa | Nike | Asics
+1
+QCMAnswer
+Quel est l'opposé de "Oui" ?
+non
+2
+YesNoAnswer
+Quelle est la distance qui sépare la terre de la lune ?
+384400
+5
+NumericalAnswer
+Qui aurai inventé l'école ?
+Charlemagne
+3
+SymbolicAnswer
+Trouvez l'intru :
+Saturne | Terre | Mars | Mercure
+10
+QCMAnswer
+Combien de questions y a-t-il eu jusque là ? (sans compter celle-ci)
+7
+3
+NumericalAnswer
+Êtes-vous sûr ?
+Oui
+1
+YesNoAnswer
+Le soleil se lève-t-il à l'Ouest ?
+Non
+2
+YesNoAnswer
+Merci d'avoir répondu à ce questionnaire ! :)
+Derien
+10
+SymbolicAnswer
